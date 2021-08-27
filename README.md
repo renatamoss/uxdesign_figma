@@ -1,12 +1,12 @@
  # Curso Figma
   
  ### Universo do design digital
-* Experiência do usuário(user experience)-UX;
-* Interface do usuário(user interface) -UI;
-* Arquitetura da informação;
+* Experiência do usuário(user experience) - UX;
+* Interface do usuário(user interface) - UI;
+* Arquitetura da informação.
 
 ###  Briefing e referências
-É um conjunto de perguntas que a gente vai fazer para o nosso cliente, para entender o que a gente vai fazer. Empresa/cliente; Projeto; Usuário Final; Prazos e orçamento.
+É um conjunto de perguntas que será feito ao nosso cliente, para entender: Projeto, Usuário Final, Prazos e Orçamento.
 
 ### Rabiscos
 Nele o designer começa a colocar suas primeiras ideias no papel a fim de validar e discutir o projeto com outros integrantes da equipe. Os rabiscos validam idéias e testam diferentes abordagens para resolver um problema de design. Os rabiscos não são uma entrega final.
