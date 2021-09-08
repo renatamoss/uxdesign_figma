@@ -2,7 +2,7 @@
 
  # Preview do Projeto Desenvolvido
 
-![app_data_agenda](https://github.com/renatamoss/curso_design_figma/blob/main/figma_projeto_curso.gif)
+![figma_projeto_curso](https://github.com/renatamoss/curso_design_figma/blob/main/figma_projeto_curso.gif)
   
  ### Universo do design digital
 * Experiência do usuário(user experience) - UX;
